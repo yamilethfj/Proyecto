@@ -1,0 +1,11 @@
+﻿  Examen.cpp
+C:\Users\luiss\OneDrive\Escritorio\Examen\Examen\Examen.cpp(45,17): warning C4101: 'no_orden_compra': variable local sin referencia
+C:\Users\luiss\OneDrive\Escritorio\Examen\Examen\Examen.cpp(45,34): warning C4101: 'idproveedor': variable local sin referencia
+C:\Users\luiss\OneDrive\Escritorio\Examen\Examen\Examen.cpp(49,30): warning C4101: 'fecha_ingreso_temp': variable local sin referencia
+C:\Users\luiss\OneDrive\Escritorio\Examen\Examen\Examen.cpp(49,8): warning C4101: 'fecha_orden_temp': variable local sin referencia
+  Generando código
+  158 of 158 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Examen.vcxproj -> C:\Users\luiss\OneDrive\Escritorio\Examen\x64\Release\Examen.exe
